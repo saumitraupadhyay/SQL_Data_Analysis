@@ -20,7 +20,7 @@ By analyzing salary data, remote work trends, and skill frequencies, this projec
 
 This project was born out of a desire to streamline the job search process for aspiring data professionals. Rather than guessing which skills to learn next, I wanted the data to dictate the optimal learning path.
 
-The dataset originates from the [SQL Course](https://lukebarousse.com/sql) and contains thousands of detailed job postings, including titles, salaries, locations, and essential skills.
+This project leverages a comprehensive dataset of real-world job postings from 2023. It encompasses thousands of records detailing job titles, salaries, locations, and essential skills across the data analytics landscape.
 
 ---
 
