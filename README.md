@@ -153,4 +153,4 @@ Based on the analysis, a Data Analyst looking to maximize their market value in 
 
 ---
 
-*For a complete look at the raw SQL queries, please navigate to the [project_sql](https://www.google.com/search?q=/project_sql/) folder.*
+*For a complete look at the raw SQL queries, please navigate to the [project_sql](project_sql/) folder.*
